@@ -2,11 +2,8 @@
 
 ## Overview
 
-This project demonstrates the implementation of encryption and decryption mechanisms using parallel processing techniques in C++. By leveraging both multiprocessing and multithreading, the project aims to enhance the efficiency and performance of cryptographic operations.
+This project demonstrates the implementation of encryption and decryption mechanisms using Queue using FIFO in C++.
 
-## Branches
-
-The repository contains two primary branches, each focusing on a distinct parallel processing approach:
 
 ### 1. `add/childProcessing`
 
@@ -33,17 +30,15 @@ The repository contains two primary branches, each focusing on a distinct parall
 To explore the implementations in each branch:
 
    ```bash
-   git clone <repo-url>
-   cd encrypty
+   git clone https://github.com/SamrPaul/Cryptify-
+   cd Cryptify
    git checkout <branch>
    # Now make a virtual env and activate
-   python -m venv /myvenv
-   source myvenv/bin/activate
-   python makeDirs.py
+  
    make
-   ./encrypty
-   # type directory name which is created from makeDirs.py
+   ./Cryptify
    test
    ENCRYPT # after giving directory name, give ENCRYPT or DECRYPT to tell what to do
    ```
+
 
