@@ -42,10 +42,18 @@ To explore the implementations in each branch:
    ```
 
 
-<img width="741" height="179" alt="output1" src="https://github.com/user-attachments/assets/ebec21e1-8f0b-41c2-8734-d19b81adf4e1" />
+<br>
+<br>
+<br>
 
 
+<img width="648" height="179" alt="output1" src="https://github.com/user-attachments/assets/055cfe3d-2dab-49df-9104-31a74d85b1aa" />
+
+<br>
+<br>
+<br>
 
 
 <img width="665" height="255" alt="output2" src="https://github.com/user-attachments/assets/caa15e14-08b9-4864-8dad-50acf250ef49" />
+
 
